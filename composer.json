@@ -1,0 +1,18 @@
+{
+  "name": "usamamuneer/phptest",
+  "type": "project",
+  "authors": [
+    {
+      "name": "usama muneer",
+      "email": "usama@rentable.pk"
+    }
+  ],
+  "require": {
+    "illuminate/database": "^8.68"
+  },
+  "autoload": {
+    "classmap": [
+      "Models"
+    ]
+  }
+}
